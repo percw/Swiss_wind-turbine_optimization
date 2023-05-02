@@ -49,20 +49,18 @@ conda install -r requirements.txt
 
 ## Usage
 
-Our process and all results are captured in the notebook (Wind Optimization).
+Our process and all results are captured by the notebook [Wind Optimization](https://github.com/percw/Swiss_wind-turbine_optimization/blob/main/wind_optimization.ipynb).
 
-1. Clone this repository:
+Clone this repository:
 
 ```bash
-git clone https://github.com/your_username/wind-turbine-placement-optimization.git
+git clone https://github.com/percw/Swiss_wind-turbine_optimization.git
 cd wind-turbine-placement-optimization
 ```
 
 ## Data Sources
 
-The geospatial data used in this project is acquired from various sources, including:
-
-- Swiss Federal Office of Topography (swisstopo)
+The geospatial data used in this project is acquired from Swiss Federal Office of Topography (swisstopo)
 
 ## Contributing
 

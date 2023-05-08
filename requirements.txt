@@ -2,3 +2,4 @@ python>=3.6
 geopandas
 google-or-tools
 dbfread
+qgis

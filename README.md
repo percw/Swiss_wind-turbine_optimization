@@ -34,6 +34,7 @@ As the demand for renewable energy grows, efficient wind turbine placement becom
 - Geopandas
 - Google OR-Tools
 - dbfread
+- qgis
 
 ## Installation
 

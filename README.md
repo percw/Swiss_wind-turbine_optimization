@@ -82,9 +82,7 @@ The methodology for this project can be broken down into the following steps:
 
 4. **Visualization**: Generate visualizations of the optimized wind turbine placements, including maps and charts displaying the location, power generation, and environmental impact of each turbine. This will help stakeholders better understand the results and make informed decisions.
 
-5. **Sensitivity Analysis**: Perform sensitivity analysis to assess the robustness of the optimization results and the impact of changes in input parameters, constraints, or objectives.
-
-6. **Documentation**: Provide clear and comprehensive documentation of the methodology, data sources, and codebase, enabling others to reproduce the results, modify the project for their own needs, or contribute to its development.
+5. **Documentation**: Provide clear and comprehensive documentation of the methodology, data sources, and codebase, enabling others to reproduce the results, modify the project for their own needs, or contribute to its development.
 
 ## Results
 
@@ -93,15 +91,11 @@ The results of this project will be presented in various formats, such as:
 - **Optimized wind turbine locations**: A list of the optimal wind turbine placements, including coordinates and other relevant information.
 - **Maps**: Interactive maps displaying the optimized wind turbine locations, along with the geospatial constraints and other geographic features.
 - **Charts and tables**: Visualizations and summary statistics of the optimization results, including power generation, environmental impact, and other relevant metrics.
-- **Sensitivity analysis**: A report detailing the sensitivity of the optimization results to changes in input parameters, constraints, or objectives.
+- **Report**: A report detailing the main findings of our project. This will be uploaded as a PDF in the root folder of this project.
+- **Presentation**: A presentation showcasing our findings before the E4S Master's students at EPFL x UNIL x IMD.
 
-These results will be useful for stakeholders in the renewable energy sector, such as energy companies, policymakers, and researchers, to make informed decisions about wind turbine placement and to better understand the trade-offs involved in optimizing for power generation and environmental impact.
+We hope that our results could be useful for stakeholders in the renewable energy sector, such as energy companies, policymakers, and researchers, to make informed decisions about wind turbine placement and to better understand the trade-offs involved in optimizing for power generation and environmental impact.
 
 ## Future Work
 
-Potential future work and improvements to the project include:
-
-- Expanding the scope of the project to include other renewable energy sources, such as solar or hydropower.
-- Incorporating more sophisticated optimization algorithms, such as genetic algorithms or machine learning techniques.
-- Developing a user-friendly web application or tool that allows users to input their own geospatial data and constraints and obtain optimized results.
-- Collaborating with stakeholders and experts in the renewable energy sector to refine the methodology and improve the practical relevance of the project.
+Potential future work and improvements to the project are include in the last section of the notebook. 

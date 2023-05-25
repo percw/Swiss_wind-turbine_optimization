@@ -1,0 +1,9 @@
+urllib3
+geopandas
+matplotlib
+numpy
+pandas
+seaborn
+dbfread
+ipywidgets
+ortools

@@ -1,6 +1,6 @@
 # Sustainable Logistics and Digitalization: Wind Turbine Placement Optimization in Switzerland
 
-This project aims to optimize the placement of wind turbines in Switzerland by considering various geographical parameters and constraints. It's created as a project for the course Sustainable Logistics and Digitalization in a master in Sustainable Management and Technology at IMD x HEC-Lausanne x EPFL. Utilizing geospatial data and optimization tools (Google OR tools), we aim to provide a sustainable solution that aligns with the Paris Agreement Policies and meets the Swiss energy requirements for 2050.
+This project aims to optimize the placement of wind turbines in Switzerland by considering various geographical parameters and constraints. It's created as a project for the course Sustainable Logistics and Digitalization in the master in [Sustainable Management and Technology](https://www.epfl.ch/education/master/programs/sustainable-management-and-technology/) at IMD x HEC-Lausanne x EPFL. Utilizing geospatial data and optimization tools (Google OR tools), we aim to provide a sustainable solution that aligns with the Paris Agreement Policies and meets the Swiss energy requirements for 2050.
 
 ## Table of Contents
 
@@ -92,7 +92,6 @@ The results of this project will be presented in various formats, such as:
 - **Maps**: Interactive maps displaying the optimized wind turbine locations, along with the geospatial constraints and other geographic features.
 - **Charts and tables**: Visualizations and summary statistics of the optimization results, including power generation, environmental impact, and other relevant metrics.
 - **Report**: A report detailing the main findings of our project. This will be uploaded as a PDF in the root folder of this project.
-- **Presentation**: A presentation showcasing our findings before the E4S Master's students at EPFL x UNIL x IMD.
 
 We hope that our results could be useful for stakeholders in the renewable energy sector, such as energy companies, policymakers, and researchers, to make informed decisions about wind turbine placement and to better understand the trade-offs involved in optimizing for power generation and environmental impact.
 

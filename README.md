@@ -5,25 +5,25 @@ This project aims to optimize the placement of wind turbines in Switzerland by c
 ## Table of Contents
 
 - [Sustainable Logistics and Digitalization: Wind Turbine Placement Optimization in Switzerland](#sustainable-logistics-and-digitalization-wind-turbine-placement-optimization-in-switzerland)
-	- [Table of Contents](#table-of-contents)
-	- [Introduction](#introduction)
-	- [Collaborators](#collaborators)
-	- [Requirements](#requirements)
-	- [Installation](#installation)
-	- [Usage](#usage)
-	- [Data Sources](#data-sources)
-	- [Contributing](#contributing)
-	- [Methodology](#methodology)
-	- [Results](#results)
-	- [Future Work](#future-work)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Collaborators](#collaborators)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Data Sources](#data-sources)
+  - [Contributing](#contributing)
+  - [Methodology](#methodology)
+  - [Results](#results)
 
 ## Introduction
 
 As the demand for renewable energy grows, efficient wind turbine placement becomes crucial for maximizing power generation and minimizing the environmental impact. This project focuses on optimizing wind turbine placements in Switzerland using geospatial data containing various parameters such as distance to the nearest city, national park, UNESCO natural heritage area, and other relevant constraints. We leverage Google's OR-Tools to optimize the placement while taking into account the geospatial constraints.
 
 ## Collaborators
-- [David Campbell](https://github.com/davdavDTB) 
-- [Paula Ramirez Ortega](https://github.com/Pramirezortega) 
+
+- [David Campbell](https://github.com/davdavDTB)
+- [Paula Ramirez Ortega](https://github.com/Pramirezortega)
 - [Noé Lopez](https://github.com/noelopez-E4S)
 - [Min Yi Chen](https://github.com/jessicaminyi)
 - [Per Christian Wessel](https://github.com/percw)
@@ -42,7 +42,9 @@ To install the required dependencies, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
+
 If you are using anaconda you can run the following code:
+
 ```bash
 conda install -r requirements.txt
 ```
@@ -91,10 +93,10 @@ The results of this project will be presented in various formats, such as:
 - **Optimized wind turbine locations**: A list of the optimal wind turbine placements, including coordinates and other relevant information.
 - **Maps**: Interactive maps displaying the optimized wind turbine locations, along with the geospatial constraints and other geographic features.
 - **Charts and tables**: Visualizations and summary statistics of the optimization results, including power generation, environmental impact, and other relevant metrics.
-- **Report**: A report detailing the main findings of our project. This will be uploaded as a PDF in the root folder of this project.
+- **Report**: A [report detailing](https://github.com/percw/Swiss_wind-turbine_optimization/blob/main/Wind_Turbine_Optimization_Report_Switzerland_E4S.pdf) the main findings of our project.
+
+You can directly open the notebook in Google Colab clicking the badge below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/percw/Swiss_wind-turbine_optimization/blob/main/wind_optimization.ipynb)
 
 We hope that our results could be useful for stakeholders in the renewable energy sector, such as energy companies, policymakers, and researchers, to make informed decisions about wind turbine placement and to better understand the trade-offs involved in optimizing for power generation and environmental impact.
-
-## Future Work
-
-Potential future work and improvements to the project are include in the last section of the notebook. 
